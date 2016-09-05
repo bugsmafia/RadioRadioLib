@@ -1,1 +1,1 @@
-alert('RadioRadioLIbrary OK');
+alert(localStorage.NowArtist);
